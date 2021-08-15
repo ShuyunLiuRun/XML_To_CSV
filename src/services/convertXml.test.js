@@ -1,4 +1,4 @@
-import { toCSVArraies } from "../services/convertXml";
+import { toCSVArraies } from "./convertXml";
 
 // to test if the CSVIntervalData element contain at least 1 row for each
 test("case one", () => {
