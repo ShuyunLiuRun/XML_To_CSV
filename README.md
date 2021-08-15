@@ -15,17 +15,17 @@
         -   "200" and "300" can repeat and will be within the header and trailer rows (done)
     -   Remove leading and trailing white spaces, tabs, additional newlines. (done)
 
--   Unit test cases
+-   Some Unit test cases
 
 ## what wasn't done
 
--   valid rows - "200" row must be followed by at least 1 "300" row
+-   validate rows - "200" row must be followed by at least 1 "300" row
 -   failed to run the unit tests
 
 ## what would be done with more time
 
--   unit tests (I have only write tests for .net programs before so this is my first time using Jest. Would be done with some more time reading documentation)
--   An entry point to take a file input in the front end
+-   unit tests (I have only write tests for .net programs before and this is my first time using Jest. Would be done with some more time reading documentation)
+-   Another entry point to take a file input in the front end
 
 ## Instructions
 
